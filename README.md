@@ -7,8 +7,8 @@ Welcome to the **Neogym** website! This project is a fully functional gym websit
 - **Responsive Design**: Seamless experience on any device.
 - **Class Schedules**: Stay updated with your fitness classes.
 - **Trainer Profiles**: Get to know your trainers and their expertise.
-- **Membership Plans**: Explore various membership options.
 - **Contact Form**: Easily reach out for any inquiries.
+- ![Neogym Screenshot](https://github.com/Yashwant377/gym-app-azure-deploy/blob/9e46b128842865b7ab362ee7a195c8b2c768c3e2/Screenshot%202025-03-05%20052402.png)
 
 ## 🛠 Technologies Used
 
