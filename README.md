@@ -35,6 +35,8 @@ To deploy the Neogym website to Azure, follow these steps:
 - Choose the **runtime stack** (e.g., Node.js, PHP) and the **region**.
 - Click **Review + Create** and then **Create**.
 
+- https://github.com/Yashwant377/gym-app-azure-deploy/blob/main/Screenshot%202025-03-05%20061049.png?raw=true
+
 ### 2. **Configure the App Service**
 
 - Once the App Service is created, navigate to the resource.
