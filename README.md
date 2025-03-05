@@ -10,6 +10,7 @@ Welcome to the **Neogym** website! This project is a fully functional gym websit
 - **Contact Form**: Easily reach out for any inquiries.
 - ![Neogym Screenshot](https://github.com/Yashwant377/gym-app-azure-deploy/blob/9e46b128842865b7ab362ee7a195c8b2c768c3e2/Screenshot%202025-03-05%20052402.png)
 - ![Neogym Screenshot](https://github.com/Yashwant377/gym-app-azure-deploy/blob/37f05ff88293ab9a0d45ae8085dd3279cf6b540f/Screenshot%202025-03-05%20052422.png)
+- ![Neogym Screenshot](https://github.com/Yashwant377/gym-app-azure-deploy/blob/7c65fbe2d19d7575af6670c4295ff51d958b041b/Screenshot%202025-03-05%20052436.png)
 
 ## 🛠 Technologies Used
 
